@@ -1,2 +1,2 @@
 # cliautomationtool
-Automate the command line of all the environments supporting python
+Automate the command line operations and assert the output of the commands using python
